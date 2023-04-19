@@ -1,0 +1,52 @@
+
+
+body{
+    background-color: white;
+}
+main{
+   background-color: white;
+   background-size: covers; 
+   background-repeat: no-repeat;
+      box-sizing: border-box;
+      padding: 0;
+           
+
+}
+header{
+    background-image:  url(wall.jpg);
+    background-position: center;
+    background-size: cover;
+    
+
+}
+img{
+    text-align: right;
+}
+
+}
+footer{
+   background-color:darkslategrey;
+    
+
+}img{
+    border: antiquewhite;
+}
+.ri{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: aquamarines;
+}  
+}
+.w{
+    background-color: bisque;
+}
+.photo{
+ background-image: url(bc;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+span{
+    background-color:wheat;
+}
